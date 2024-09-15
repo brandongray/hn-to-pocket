@@ -1,4 +1,4 @@
-certifi==2022.12.7
+certifi==2024.7.4
 chardet==3.0.4
 flake8==3.8.3
 idna==2.10
@@ -6,5 +6,5 @@ mccabe==0.6.1
 pocket==0.3.6
 pycodestyle==2.6.0
 pyflakes==2.2.0
-requests==2.24.0
+requests==2.32.2
 urllib3==1.26.19
