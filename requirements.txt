@@ -6,5 +6,5 @@ mccabe==0.6.1
 pocket==0.3.6
 pycodestyle==2.6.0
 pyflakes==2.2.0
-requests==2.24.0
+requests==2.32.2
 urllib3==1.26.5
